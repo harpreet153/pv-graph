@@ -1,0 +1,4 @@
+---
+applications:
+ - name: pv-graph
+   memory: 128M

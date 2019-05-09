@@ -1,0 +1,9 @@
+Flask==1.0.2
+watson-machine-learning-client==1.0.346
+Pillow==5.3.0
+werkzeug==0.14.1
+netCDF4==1.5.1.2
+siphon==0.8.0
+matplotlib==3.0.0
+pvlib==0.6.0
+tables==3.5.1
